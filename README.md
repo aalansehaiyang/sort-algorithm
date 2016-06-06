@@ -9,7 +9,7 @@
 
 位置：com.algorithm.bubbling.BubblingSort
 
-### 2. 
+### 2. 快速排序
 
 基本思想：
 
