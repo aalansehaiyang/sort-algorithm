@@ -13,6 +13,7 @@
 * [推荐系统之协同过滤（CF）算法详解和实现](http://mp.weixin.qq.com/s/FNf01WRmx7if55KkaGRJFQ)
 * [白话讲解遗传算法 (Genetic Algorithm)](http://mp.weixin.qq.com/s/Cu77VmMwhEBh6zGt5aWHdg)
 * [字符串匹配的KMP算法](http://mp.weixin.qq.com/s/m2cgiVCoh5hwvgPSwKJHpQ)
+* [Adaboost 算法的原理与推导](https://mp.weixin.qq.com/s/tZNKT7kO-DgSgza1jkkV8w)
 
 * ###### 数据结构
 	* [从堆到优先队列](http://mp.weixin.qq.com/s/7N_J6ky8MR6VwmvWOnau5w)
@@ -33,6 +34,7 @@
 * ###### 贝叶斯
 	* [朴素贝叶斯分类算法原理与实践](http://mp.weixin.qq.com/s/AV1izguFhWIhFPGiYaEX2Q)
 	* [分类算法之朴素贝叶斯分类](http://mp.weixin.qq.com/s/CkxiQ_62qLKjSGvmr7Rjfw)
+	* [分类算法之贝叶斯网络](https://mp.weixin.qq.com/s/bdY8KkMp-tNbZD1jfAp6CA)
 	
 * ###### 神经网络
 	* [卷积神经网络算法的一个实现](http://mp.weixin.qq.com/s/cRmJwooPPGbsZjnUP5hGmA)
@@ -41,12 +43,15 @@
 * ###### K近邻
 	* [K-means算法及文本聚类实践](http://mp.weixin.qq.com/s/QHoFVcG3gFbXng-0g4LugA)
 	* [用 K 均值聚类算法实现音调的分类与可视化](http://mp.weixin.qq.com/s/EEneXphgUDxHJmNkS4JJAg)
+	* [算法杂货铺：k均值聚类](https://mp.weixin.qq.com/s/XhbbapA_zcNPjiCM-dCEoA)
 	
 
 * ###### 机器学习
 	* [决策树分类算法](http://mp.weixin.qq.com/s/WHSNeI73qcXGUyAtRrNw5w)
 	* [决策树模型组合之随机森林与GBDT](http://mp.weixin.qq.com/s/Cu1w1LQkSmEvsN86e-kMXg)
+	* [分类算法之决策树](https://mp.weixin.qq.com/s/wARk6anY5o4-ruOOGBcRKg)
 	* [支持向量机(SVM)基础](http://mp.weixin.qq.com/s/bzZ64tVaBHeCPmNx-d1BbA)
+	* [机器学习中的逻辑回归模型简介](https://mp.weixin.qq.com/s/JKvjejHWppyXXKadyqNLxQ)
 
 * ###### 傅里叶变换算法
 	* [从头到尾彻底理解傅里叶变换算法（上）](http://mp.weixin.qq.com/s/oWmUdF2HnPM-L49Gmw8wSw)
