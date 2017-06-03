@@ -10,6 +10,14 @@
 	* [数据结构和算法：Hash散列容器](http://mp.weixin.qq.com/s/e0ZTkmGYnXgB59VKhIRhdw)
 	* [七大查找算法](http://mp.weixin.qq.com/s/hzfC1G3mnVCaqeey2wFoMQ)
 	* [有向图的几个算法分析总结](http://mp.weixin.qq.com/s/pSGsmaaGefe4vBGXML2j_w)
+	* [算法数据结构-B树](https://mp.weixin.qq.com/s/3KWiO2RWw3xIFJzqDX0KUA)
+
+* ##### 排序相关（含代码）
+
+	* [冒泡排序](BubblingSort.md)
+	* [快速排序](QuickSort.md)
+	* [插入排序](InsertSort.md)
+	* [堆排序](StackSort.md)
 
 * ##### 五大常用算法
 	* [五大常用算法：分支限界法](http://mp.weixin.qq.com/s/7VoFTypaRi_3hMIw5-0tAA)
