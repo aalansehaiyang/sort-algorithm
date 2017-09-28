@@ -53,10 +53,6 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.4</version>
         </dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>dubbo</artifactId>
-            <version>2.5.4</version>
-        </dependency>
         <dependency>
             <groupId>commons-collections</groupId>
             <artifactId>commons-collections</artifactId>
