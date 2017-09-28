@@ -2,8 +2,16 @@
 
 ---
 
+#### 一、 [加密算法](doc/encry.md)
 
-#### 一、机器学习
+* SHA
+* DES
+* AES
+* RSA
+* Base64
+* MD5
+
+#### 二、机器学习
 
 * 决策树
 * [朴素贝叶斯](http://blog.csdn.net/androidlushangderen/article/details/42680161)
@@ -20,9 +28,6 @@
 * 基于多支持度的Apriori算法
 * [分布式全局最大频繁项集更新挖掘算法](http://www.cnki.com.cn/Article/CJFDTOTAL-HZLG201112032.htm)
 * 神经网络算法
-
-
-#### 二、 [加密算法](doc/encry.md)
 
 
 #### 三、经典案例
