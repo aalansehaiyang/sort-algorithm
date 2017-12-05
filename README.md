@@ -28,6 +28,8 @@
 * 基于多支持度的Apriori算法
 * [分布式全局最大频繁项集更新挖掘算法](http://www.cnki.com.cn/Article/CJFDTOTAL-HZLG201112032.htm)
 * 神经网络算法
+* [LightGBM](https://www.zhihu.com/question/51644470)
+* [协同过滤算法](http://blog.csdn.net/acdreamers/article/details/44672305)
 
 
 #### 三、经典案例
