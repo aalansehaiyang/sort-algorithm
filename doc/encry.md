@@ -26,7 +26,7 @@ AES加密算法被设计为支持128／192／256位（/32=nb)数据块大小（�
 
 [JAVA实现AES加密、解密](http://blog.csdn.net/hbcui1984/article/details/5201247)
 
-[AES加密解密 AES/CBC/PKCS5Padding](AES加密解密 AES/CBC/PKCS5Padding)
+[AES加密解密 AES/CBC/PKCS5Padding](http://jeffyding.iteye.com/blog/1038616)
 
 * RSA
 
