@@ -28,6 +28,10 @@ AES加密算法被设计为支持128／192／256位（/32=nb)数据块大小（�
 
 [AES加密解密 AES/CBC/PKCS5Padding](http://jeffyding.iteye.com/blog/1038616)
 
+[AES加密CBC模式兼容互通四种编程语言平台【PHP、Javascript、Java、C#】](https://my.oschina.net/Jacker/blog/86383)
+
+[Java实现AES加密,异常java.security.InvalidKeyException: Illegal key size 的解决](https://blog.csdn.net/wangjunjun2008/article/details/50847426)
+
 * RSA
 
 RSA加密算法是目前最有影响力的公钥加密算法，并且被普遍认为是目前最优秀的公钥方案之一。RSA是第一个能同时用于加密和数宇签名的算法，它能够抵抗到目前为止已知的所有密码攻击，已被ISO推荐为公钥数据加密标准。RSA加密算法基于一个十分简单的数论事实：将两个大素数相乘十分容易，但那时想要，但那时想要对其乘积进行因式分解却极其困难，因此可以将乘积公开作为加密密钥。
