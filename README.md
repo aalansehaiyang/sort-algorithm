@@ -46,10 +46,10 @@
 
 * ##### 排序相关（含代码）
 
-	* [冒泡排序](BubblingSort.md)
-	* [快速排序](QuickSort.md)
-	* [插入排序](InsertSort.md)
-	* [堆排序](StackSort.md)
+	* [冒泡排序](doc/BubblingSort.md)
+	* [快速排序](doc/QuickSort.md)
+	* [插入排序](doc/InsertSort.md)
+	* [堆排序](docStackSort.md)
 
 * ##### 五大常用算法
 	* [五大常用算法：分支限界法](http://mp.weixin.qq.com/s/7VoFTypaRi_3hMIw5-0tAA)
