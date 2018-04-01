@@ -31,8 +31,13 @@
 * [LightGBM](https://www.zhihu.com/question/51644470)
 * [协同过滤算法](http://blog.csdn.net/acdreamers/article/details/44672305)
 
+#### 三、博客
 
-#### 三、经典案例
+* 【github】[机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归](https://github.com/Jack-Cherish/Machine-Learning)
+* 【CSDN】[Python3 机器学习笔记](https://blog.csdn.net/c406495762)
+* [常用算法总结](https://mp.weixin.qq.com/s/yNGtWUkzvYRjapBCWQ9iFQ)
+
+#### 四、经典案例
 
 * ##### 数据结构
 	* [从堆到优先队列](http://mp.weixin.qq.com/s/7N_J6ky8MR6VwmvWOnau5w)
